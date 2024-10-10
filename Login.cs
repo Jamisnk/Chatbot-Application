@@ -97,5 +97,10 @@ namespace Chatbot_Application
                 MessageBox.Show("Exception: " + ex.Message);
             }
     }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
